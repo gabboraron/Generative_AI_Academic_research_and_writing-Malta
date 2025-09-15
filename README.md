@@ -67,11 +67,14 @@ By the end of this course, participants will be able to:
 
 ## 📖 Getting Started
 
+**New to this course?** Check out our [Getting Started Guide](GETTING_STARTED.md) for step-by-step setup instructions and learning recommendations.
+
 1. Clone this repository
 2. Review the course structure and learning objectives
-3. Start with Module 1 foundations in the `notes/` directory
-4. Work through exercises in the `exercises/` directory
-5. Experiment with tools and examples provided
+3. Set up your Python environment using `requirements.txt`
+4. Start with Module 1 foundations in the `notes/` directory
+5. Work through exercises in the `exercises/` directory
+6. Experiment with tools and examples provided
 
 ## 🤝 Contributing
 
