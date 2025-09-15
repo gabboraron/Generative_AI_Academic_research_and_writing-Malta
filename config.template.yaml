@@ -1,0 +1,56 @@
+# Configuration template for LLM Scientific Papers Course
+# Copy this file to config.yaml and fill in your API keys and settings
+
+# API Configuration
+api_keys:
+  openai_api_key: "your_openai_api_key_here"
+  anthropic_api_key: "your_anthropic_api_key_here"
+  cohere_api_key: "your_cohere_api_key_here"
+  huggingface_api_key: "your_huggingface_api_key_here"
+
+# Model Settings
+models:
+  default_llm: "gpt-3.5-turbo"
+  summarization_model: "facebook/bart-large-cnn"
+  classification_model: "microsoft/DialoGPT-medium"
+  embedding_model: "sentence-transformers/all-MiniLM-L6-v2"
+
+# Processing Settings
+processing:
+  max_tokens: 4000
+  batch_size: 16
+  timeout_seconds: 30
+  retry_attempts: 3
+
+# Paths
+paths:
+  data_directory: "./data/"
+  output_directory: "./output/"
+  temp_directory: "./tmp/"
+  cache_directory: "./cache/"
+
+# Paper Processing
+paper_settings:
+  max_paper_length: 50000  # Maximum characters per paper
+  summary_length: 500      # Target summary length in characters
+  extract_citations: true
+  extract_figures: false
+  extract_tables: false
+
+# Evaluation Settings
+evaluation:
+  use_human_eval: false
+  auto_eval_metrics: ["bleu", "rouge", "bertscore"]
+  save_results: true
+
+# Logging
+logging:
+  level: "INFO"
+  log_file: "./logs/course.log"
+  log_api_calls: false
+
+# Course Settings
+course:
+  auto_save_progress: true
+  enable_collaboration: true
+  peer_review_enabled: true
