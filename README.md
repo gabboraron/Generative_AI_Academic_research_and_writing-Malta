@@ -1,8 +1,11 @@
 # Generative AI Academic research and writing 
 ## how-to
-1. use multiple GenAI engines
-2. ideas not answers
-3. use as a sparring partner
+1. Use multiple GenAI engines
+2. *Ideas not answers*
+3. Use as a sparring partner
+   - disagree with mee
+   - argue challenge this
+   - request methodological critique   
 
 **Links to tools:**
 - https://consensus.app
