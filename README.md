@@ -6,6 +6,9 @@
 - https://elicit.com
 - https://quillbot.com
 - https://refworks.proquest.com
+- https://docanalyzer.ai
+- https://hydi.um.edu.mt
+- https://www.heuristi.ca
 - 
 
 **Pop culture:**
