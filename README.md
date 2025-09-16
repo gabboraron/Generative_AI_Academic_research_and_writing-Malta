@@ -13,7 +13,7 @@
 - https://docanalyzer.ai
 - https://hydi.um.edu.mt
 - https://www.heuristi.ca
-- 
+- https://scite.ai
 
 **Pop culture:**
 - [Social dilemma](https://www.netflix.com/mt/title/81254224)
