@@ -15,6 +15,11 @@
 - https://www.heuristi.ca
 - https://scite.ai
 
+**Software:**
+- https://lumivero.com/products/nvivo
+- 
+
+  
 **Pop culture:**
 - [Social dilemma](https://www.netflix.com/mt/title/81254224)
 - [Coded Bias](https://www.netflix.com/mt/title/81328723)
