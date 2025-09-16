@@ -20,8 +20,6 @@
 
 **Software:**
 - https://lumivero.com/products/nvivo
-- 
-
   
 **Pop culture:**
 - [Social dilemma](https://www.netflix.com/mt/title/81254224)
